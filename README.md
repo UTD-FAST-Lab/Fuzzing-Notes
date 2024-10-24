@@ -11,3 +11,6 @@ This repository is a collection of resources to get started with fuzzing.
 
 # Fuzzing Corpora
 1. https://github.com/strongcourage/fuzzing-corpus
+
+# Community
+Join the Awesome Fuzzing [discord](https://discord.gg/j82Nhrf7b7)!
