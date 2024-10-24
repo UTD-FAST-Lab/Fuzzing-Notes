@@ -4,6 +4,8 @@ This repository is a collection of resources to get started with fuzzing.
 # Getting Started with Fuzzing
 1. [The Fuzzing Book](https://www.fuzzingbook.org/)
 
+# Research Paper Collections
+1. [FuzzingPapers](https://wcventure.github.io/FuzzingPaper/)
 
 # AFL++
 ## Fuzzing with AFL++
