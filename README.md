@@ -12,6 +12,8 @@ This repository is a collection of resources to get started with fuzzing.
 1. [Fuzzing Made Easy](https://www.srlabs.de/blog-post/fuzzing-made-easy-outline) by vanhauser-thc.
 ## Fuzzing with AFL++
 1. Great if you want to modify AFL++: [AFL++ in depth by Sharad Khanna](https://blog.ritsec.club/posts/afl-under-hood/#afl-architecture)
+## Evaluation
+1. [Standard Guidelines](https://github.com/fuzz-evaluator/guidelines)
 
 # Fuzzing Corpora
 1. https://github.com/strongcourage/fuzzing-corpus
